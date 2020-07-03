@@ -6,4 +6,9 @@ First push to git Hub
 updated in Local REPO
 =======
 Updated in gitHUB
+<<<<<<< HEAD
 >>>>>>> de4cb27a50bdddc2947888fc0cd56ca7bcb14129
+=======
+
+again updated
+>>>>>>> e01addb4c4e8766d7df3e92c01a47244f31a742b
