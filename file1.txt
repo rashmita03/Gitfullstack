@@ -2,4 +2,8 @@ Hello World!
 
 First push to git Hub
 
+<<<<<<< HEAD
 updated in Local REPO
+=======
+Updated in gitHUB
+>>>>>>> de4cb27a50bdddc2947888fc0cd56ca7bcb14129
