@@ -13,4 +13,8 @@ Updated in gitHUB
 again updated
 >>>>>>> e01addb4c4e8766d7df3e92c01a47244f31a742b
 
-1. Change in GITHUB by Team mate
+<<<<<<< HEAD
+1. Change in GITHUB by Team mate[updated]
+
+1. localrepo1[
+
